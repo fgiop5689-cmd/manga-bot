@@ -6,7 +6,7 @@ from telegram.ext import (
     ContextTypes
 )
 
-BOT_TOKEN = os.environ.get("8942556325:AAHBG_0oOQXSSUN1OylliW7F-WSDqW2HIR8")
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 CHANNEL_ID = "@MangaArchivet"
 FILES_CHANNEL = -1003518383059
 
